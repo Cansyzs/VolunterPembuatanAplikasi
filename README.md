@@ -1,2 +1,2 @@
 # VolunterPembuatanAplikasi
-Repository ini digunakan sebagai sayambara pencarian volunter untuk pembuatan aplikasi Dicoding.  
+Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan aplikasi Dicoding.  
